@@ -5,5 +5,6 @@ Based on PyTorch library, realizing human activities recognition using 2D skelet
 - Realizing LSTM network by PyTorch
 - Dataset is a subset of the Berkeley Multimodal Human Action Database (MHAD)
 - Thanks to [RNN-for-Human-Activity-Recognition-using-2D-Pose-Input](https://github.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input), Dataset can be downloaded from [raw data](https://drive.google.com/file/d/1IuZlyNjg6DMQE3iaO1Px6h1yLKgatynt/view)
+- Put the dataset into data/HAR_pose_activities/database/
 - Detail is in [lstm.ipynb](https://github.com/xieyulai/LSTM-for-Human-Activity-Recognition-using-2D-Pose_Pytorch/blob/master/lstm.ipynb)
 - Not bad result is realized in a 8 Minutes training (TitanXP GPU)
